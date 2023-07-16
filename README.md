@@ -8,7 +8,7 @@ Portfolio created by playing Let's Get Rich and conceiving it yourself / 모두�
 
 ### website start title
 ![image](https://github.com/edaild/Let-s-Get-Rich-Portfolio/assets/109999749/9ff2625a-d2da-462c-8605-c1d29c57c16d)
-![image](https://github.com/edaild/Let-s-Get-Rich-Portfolio/assets/109999749/5c06142c-41cd-4fff-899a-be9ff4c20bca)
+
 
 
 ### main page
@@ -16,7 +16,7 @@ Portfolio created by playing Let's Get Rich and conceiving it yourself / 모두�
 
 ### main menu (주사위 모양을 본떠 만든 메뉴)
 ![image](https://github.com/edaild/Let-s-Get-Rich-Portfolio/assets/109999749/bf89a701-c05e-4a1c-94f2-f27c0d62cb52)
-![image](https://github.com/edaild/Let-s-Get-Rich-Portfolio/assets/109999749/d0a49587-e6c2-4e94-9110-d34922b1bc0b)
+![image](https://github.com/edaild/Let-s-Get-Rich-Portfolio/assets/109999749/5c06142c-41cd-4fff-899a-be9ff4c20bca)
 
 
 ### sub menu
