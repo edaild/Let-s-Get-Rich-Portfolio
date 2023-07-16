@@ -16,7 +16,7 @@ Portfolio created by playing Let's Get Rich and conceiving it yourself / 모두�
 ![image](https://github.com/edaild/Let-s-Get-Rich-Portfolio/assets/109999749/a3500992-190c-492e-9320-917157bb9b95)
 
 ### main menu (주사위 모양을 본떠 만든 메뉴)
-![image](https://github.com/edaild/Let-s-Get-Rich-Portfolio/assets/109999749/bf89a701-c05e-4a1c-94f2-f27c0d62cb52)
+![image](https://github.com/edaild/Let-s-Get-Rich-Portfolio/assets/109999749/4032bc95-4631-4619-b6a9-2e7e80269f57)
 ![image](https://github.com/edaild/Let-s-Get-Rich-Portfolio/assets/109999749/5c06142c-41cd-4fff-899a-be9ff4c20bca)
 
 
