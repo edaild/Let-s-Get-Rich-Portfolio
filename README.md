@@ -3,7 +3,7 @@ Portfolio created by playing Let's Get Rich and conceiving it yourself / 모두�
 <h3>caution / 주의 사항</h3>
 <p> In this portfolio, the background music does not play automatically in the Chome environment / 본 포트폴리오는 Chome 환경에서는 배경음악이 자동 재생되지 않습니다.</p>
 <P> When executing, please run index·html first / 실행 시 index·html을 가장 먼저 실행해 주세요.</P>
-<p>Please use Aljib when decompressing. / 압축 해제시 알집을 이용해 주세요. </p>
+<p>Please use Aljib when decompressing. / 압축 해제시 알집을 이용해 주세요.</p>
 
 # execution result / 실행결과
 
