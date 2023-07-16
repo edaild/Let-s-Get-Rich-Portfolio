@@ -8,6 +8,7 @@ Portfolio created by playing Let's Get Rich and conceiving it yourself / 모두�
 
 ### website start title
 ![image](https://github.com/edaild/Let-s-Get-Rich-Portfolio/assets/109999749/9ff2625a-d2da-462c-8605-c1d29c57c16d)
+![image](https://github.com/edaild/Let-s-Get-Rich-Portfolio/assets/109999749/76d8264f-e617-4b9c-8f16-f51dd9bb1f49)
 
 
 
