@@ -1,5 +1,5 @@
 # Let-s-Get-Rich-Portfolio
-Portfolio created by playing Let's Get Rich and conceiving it yourself / 모두의 마불 플레이하고 직접 구상해서 만든 포토폴리오<br>
+Portfolio created by playing Let's Get Rich and conceiving it yourself / 모두의 마불을 플레이하고 직접 구상해서 만든 포토폴리오<br>
 <h3>caution / 주의 사항</h3>
 <p> In this portfolio, the background music does not play automatically in the Chome environment / 본 포트폴리오는 Chome 환경에서는 배경음악이 자동 재생되지 않습니다.</p>
 <P> When executing, please run index.html first / 실행 시 index·html을 가장 먼저 실행해 주세요.</P>
